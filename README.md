@@ -1,4 +1,4 @@
-🖱️ Mouse Tracker 
+## 🖱️ Mouse Tracker 
 Este projeto demonstra a capacidade do React de encapsular lógica complexa em Custom Hooks, 
 permitindo que o rastreamento de eventos do mouse seja reutilizado em diferentes contextos visuais sem a repetição de código.
 
